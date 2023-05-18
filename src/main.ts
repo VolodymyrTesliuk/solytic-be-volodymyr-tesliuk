@@ -10,9 +10,9 @@ const cors = require('cors')
 const SECRET_JWT_KEY = process.env.SECRET_JWT_KEY
 
 const initialData = {
-  'voltes@gmail.com': {
-    id: 123,
-    email: 'voltes@gmail.com',
+  'voltes@test.net': {
+    id: 125,
+    email: 'voltes@test.net',
     password: 'MayThe4thBeWithU'
   }
 }
